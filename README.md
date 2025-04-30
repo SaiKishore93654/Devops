@@ -22,8 +22,8 @@ As a  DevOps Infra Support Engineer, I have extensive experience with a wide ran
 | ------ | ---------- | ----------- |
 
 ## Cloud Platforms
-| Amazon Web Services (AWS) | Microsoft Azure |
-| --------------------------| --------------- |
+| Amazon Web Services (AWS) |  
+| --------------------------|
 
 ## Monitoring & Logging
 | New Relic | Grafana | ELK Stack (Elasticsearch, Logstash, Kibana) | Kibana |
