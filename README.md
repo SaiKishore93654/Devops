@@ -6,7 +6,7 @@ As a  DevOps Infra Support Engineer, I have extensive experience with a wide ran
 #  DevOps Engineer Tools
 
 ## Version Control Systems
-| Git | Tortoise SVN | GitHub |
+| Git | Tortoise SVN | GitLab |
 | --- | ------------ | ------ |
 
 ## CI/CD (Continuous Integration/Continuous Deployment)
