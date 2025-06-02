@@ -26,8 +26,8 @@ As a  DevOps Engineer, I have extensive experience with a wide range of tools an
 | --------------------------|
 
 ## Monitoring & Logging
-| New Relic | Grafana | ELK Stack (Elasticsearch, Logstash, Kibana) | Kibana |
-| --------- | ------- | ------------------------------------------ | ------ |
+ | Grafana | ELK Stack (Elasticsearch, Logstash, Kibana) | Kibana |
+ | ------- | ------------------------------------------ | ------ |
 
 ## Security
 | Snyk | Microsoft Defender | Tenable Cloud Security | Microsoft Sentinel |
@@ -58,7 +58,7 @@ As a  DevOps Engineer, I have extensive experience with a wide range of tools an
 | --------- |
 
 ## Collaboration & Issue Tracking
-| Bitbucket | GitHub |
+| Bitbucket | GitLab |
 | --------- | ------ |
 
 
